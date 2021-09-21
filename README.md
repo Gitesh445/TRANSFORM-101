@@ -31,4 +31,10 @@ WEBSITE FOR EDUCATION SECTOR IN AR TECHNOLOGY
                
                
         ![AR2](https://user-images.githubusercontent.com/82089827/132117373-93a1923e-cd29-4049-8f5b-d56f113ff40a.jpg)
-       
+ 
+ # Screenshots
+ 
+   
+Format: ![Alt Text](url)
+Format: ![Alt Text](url)
+Format: ![Alt Text](url)
