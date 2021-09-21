@@ -38,4 +38,14 @@ WEBSITE FOR EDUCATION SECTOR IN AR TECHNOLOGY
 Format: ![Alt Text](https://github.com/Gitesh445/TRANSFORM-101/blob/main/Screenshot%20(54).png)
 Format: ![Alt Text](https://github.com/Gitesh445/TRANSFORM-101/blob/main/AR1.jpg)
 Format: ![Alt Text](https://github.com/Gitesh445/TRANSFORM-101/blob/main/AR2.jpg)
-Format: ![Alt Text]()
+Format: ![Alt Text](https://github.com/Gitesh445/TRANSFORM-101/blob/main/Screenshot%20(52).png)
+
+# Tech/Framework used
+
+     ## 1.HTML-5
+     ## 2.SASS
+     ## 3.BOOTSTRAP
+     ## 4.AUGMENTED REALITY
+     ## 5.CSS
+     ## 6.JAVASCRIPT
+     ## 7.API
